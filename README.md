@@ -16,9 +16,8 @@
 🏆 GATE 2026 Qualified (CS & DA)
 💡 Passionate about AI-driven applications & scalable web solutions  
 🧠 Strong foundation in DSA, DBMS, OS & Computer Networks  
+🚀 Love building impactful real-world projects through technology
 
-</br>
-</br>
 
 ---
 
