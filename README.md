@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-
+<p>
 <img 
   align="right" 
   alt="coding" 
@@ -24,7 +24,7 @@
 💡 Passionate about AI-driven applications & scalable web solutions<br>
 🧠 Strong foundation in DSA, DBMS, OS & Computer Networks<br>
 🚀 Love building impactful real-world projects through technology<br>
-
+</p>
 ---
 
 # 🌐 Connect With Me:
