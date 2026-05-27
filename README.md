@@ -9,7 +9,6 @@
 
 # 💫 About Me:
 
-<p>
 
 <img 
   align="right" 
@@ -19,6 +18,7 @@
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
+<p>
 🎓 B.Tech CSE Student  
 🌱 Currently exploring MERN Stack & Machine Learning
 🏆 GATE 2026 Qualified (CS & DA)
