@@ -18,7 +18,7 @@
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 /> -->
 
-🎓 B.Tech CSE Student 
+🎓 B.Tech CSE Student <br>
 🌱 Currently exploring MERN Stack & Machine Learning
 🏆 GATE 2026 Qualified (CS & DA)
 💡 Passionate about AI-driven applications & scalable web solutions
