@@ -24,11 +24,11 @@
 # 🌐 Connect With Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://www.linkedin.com/in/riya-aneja-b43a872b3/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="https://github.com/Riya336">
 <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -95,11 +95,11 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Riya336&theme=tokyonight&show_icons=true&hide_border=false"/>
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya336&theme=tokyonight&layout=compact"/>
 </p>
 
 ---
