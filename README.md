@@ -1,61 +1,116 @@
-# Hi 👋 I'm Riya
+<h1 align="center">Hi 👋, I'm Riya</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-💻 Full Stack Developer | AI Enthusiast | Problem Solver  
-🚀 Passionate about building scalable web applications and AI-driven solutions  
-🎯 GATE 2026 Qualified (CS & DA) with strong foundations in DSA, DBMS, OS & CN  
-🌱 Currently exploring MERN Stack, Machine Learning, and System Design  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Python • Java • JavaScript • C++ • C
-
-### Frontend
-React.js • HTML5 • CSS3 • Tailwind CSS
-
-### Backend
-Node.js • Express.js • REST APIs
-
-### Databases
-MongoDB • MySQL
-
-### Tools & Platforms
-Git • GitHub • VS Code • PyCharm • Jupyter Notebook
-
-### Libraries
-NumPy • Pandas • Matplotlib
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Learner;GATE+2026+Qualified;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 💫 About Me:
 
-### 🎓 ClassLens – AI Powered Classroom Engagement Tool
-AI-based classroom engagement system using Machine Learning to analyze student attentiveness and provide real-time educator feedback.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🤖 ESehyog – Government Scheme Assistance Chatbot
-WhatsApp chatbot built using Python & Twilio to help users discover verified government schemes efficiently.
-
-### 🥗 AhaarSetu – Ayurvedic Diet Management Platform
-Full-stack healthcare platform for generating personalized Ayurvedic diet plans and managing patient workflows.
-
----
-
-## 🏆 Achievements
-
-- ✅ GATE 2026 Qualified – Computer Science
-- ✅ GATE 2026 Qualified – Data Analytics
-- 🧠 Solved 200+ DSA problems on LeetCode
-- ⭐ HackerRank: 5★ C++ | 3★ Java | 3★ C
-- 📄 Published Review Paper on GIS Advancement – ICECET 2025
-- 🚀 Top 50 Teams out of 700+ in NEF Innovation
+🎓 B.Tech CSE Student  
+💡 Passionate about AI-driven applications & scalable web solutions  
+🧠 Strong foundation in DSA, DBMS, OS & Computer Networks  
+🌱 Currently exploring MERN Stack & Machine Learning  
+🏆 GATE 2026 Qualified (CS & DA)  
+⚡ Fun Fact: `if(success) grow(); else learn();`
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me:
 
-- LinkedIn: https://www.linkedin.com/in/riya-aneja-b43a872b3/
-- GitHub: https://github.com/Riya336
+<p align="left">
+<a href="https://linkedin.com/in/your-link" target="blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
+
+# 💻 Tech Stack:
+
+### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📚 Libraries & Tools
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 ClassLens – AI Classroom Engagement Tool
+🔹 AI-powered classroom monitoring system using Machine Learning  
+🔹 Real-time student attentiveness analysis & engagement tracking  
+
+## 🤖 ESehyog – Government Scheme Chatbot
+🔹 WhatsApp chatbot built with Python & Twilio  
+🔹 Helps users discover verified government schemes efficiently  
+
+## 🥗 AhaarSetu – Ayurvedic Diet Management Platform
+🔹 Full-stack healthcare platform for personalized diet plans  
+🔹 Patient management & clinical workflow optimization  
+
+---
+
+# 🏆 Achievements
+
+🏅 GATE 2026 Qualified – Computer Science  
+🏅 GATE 2026 Qualified – Data Analytics  
+⭐ Solved 200+ DSA Problems on LeetCode  
+🚀 Top 50 Teams out of 700+ in NEF Innovation  
+📄 Published Research Paper – ICECET 2025  
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=false"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+```cpp
+while(!success){
+    learn();
+    improve();
+}
