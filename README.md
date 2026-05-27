@@ -13,6 +13,7 @@
   align="right" 
   alt="coding" 
   width="40%" 
+  height="75%"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
