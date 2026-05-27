@@ -104,13 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Riya336&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
-
-```cpp
-while(!success){
-    learn();
-    improve();
-}
