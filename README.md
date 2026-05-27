@@ -9,13 +9,15 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="250" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300"  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 B.Tech CSE Student  
 🌱 Currently exploring MERN Stack & Machine Learning
 🏆 GATE 2026 Qualified (CS & DA)
 💡 Passionate about AI-driven applications & scalable web solutions  
 🧠 Strong foundation in DSA, DBMS, OS & Computer Networks  
+
+
 
 ---
 
