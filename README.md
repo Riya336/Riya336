@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Learner;GATE+2026+Qualified;Always+Learning+New+Things+🚀" />
+<p align="center"><b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MERN+Stack+Learner;GATE+2026+Qualified;Always+Learning+New+Things+🚀" /></b>
 </p>
 
 ---
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 B.Tech CSE Student  
+🌱 Currently exploring MERN Stack & Machine Learning
+🏆 GATE 2026 Qualified (CS & DA)
 💡 Passionate about AI-driven applications & scalable web solutions  
 🧠 Strong foundation in DSA, DBMS, OS & Computer Networks  
-🌱 Currently exploring MERN Stack & Machine Learning  
-🏆 GATE 2026 Qualified (CS & DA)  
-⚡ Fun Fact: `if(success) grow(); else learn();`
 
 ---
 
