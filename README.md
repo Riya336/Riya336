@@ -10,13 +10,13 @@
 # 💫 About Me:
 
 
-<img 
+<!-- <img 
   align="right" 
   alt="coding" 
   width="40%" 
   height="280"
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+/> -->
 
 🎓 B.Tech CSE Student 
 🌱 Currently exploring MERN Stack & Machine Learning
