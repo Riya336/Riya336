@@ -96,15 +96,9 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya336&theme=tokyonight&show_icons=true&hide_border=false">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Riya336&show_icons=true&theme=tokyonight">
   <img src="https://streak-stats.demolab.com?user=Riya336&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya336&theme=tokyonight&layout=compact&hide_border=false" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riya336&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
