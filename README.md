@@ -55,7 +55,7 @@ Full-stack healthcare platform for generating personalized Ayurvedic diet plans 
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/riya
-- GitHub: github.com/Riya336
+- LinkedIn: https://www.linkedin.com/in/riya-aneja-b43a872b3/
+- GitHub: https://github.com/Riya336
 
 ---
